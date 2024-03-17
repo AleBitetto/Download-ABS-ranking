@@ -1,4 +1,4 @@
-# Download-ABS-ranking
+# Download ABS ranking
 Download [ABS Journal Ranking](https://charteredabs.org/academic-journal-guide-2021-view/)
 
 
